@@ -1,0 +1,8 @@
+---
+title: "How to Use the Boston Marathon Prediction Shiny App"
+author: "Bob Chrum"
+date: "Sunday, December 14, 2014"
+output: html_document
+---
+
+This application is very simple.  Simply enter the forecasted temperature and wind conditions for race day at 10am, and the application will automatically display the predicted Boston Marathon winning time.  The winning time is predicted using a model constructed from the winning times and weather conditions of the past 14 Boston Marathons.
